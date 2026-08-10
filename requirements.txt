@@ -3,6 +3,8 @@ langchain
 langchain-core
 langchain-community
 langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
 faiss-cpu
 python-dotenv
 pypdf
