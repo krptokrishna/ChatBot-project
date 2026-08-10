@@ -5,6 +5,9 @@ langchain-community
 langchain-groq
 langgraph
 langgraph-checkpoint-sqlite
-faiss-cpu
+duckduckgo-search
 python-dotenv
+faiss-cpu
 pypdf
+sentence-transformers
+langchain-huggingface
